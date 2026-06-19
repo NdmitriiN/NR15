@@ -1,0 +1,32 @@
+C:\Users\User\source\repos\PK15\PK15\bin\Debug\PK15.exe.config
+C:\Users\User\source\repos\PK15\PK15\bin\Debug\PK15.exe
+C:\Users\User\source\repos\PK15\PK15\bin\Debug\PK15.pdb
+C:\Users\User\source\repos\PK15\PK15\obj\Debug\PK15.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\PK15\PK15\obj\Debug\PK15.MainForm.resources
+C:\Users\User\source\repos\PK15\PK15\obj\Debug\PK15.Properties.Resources.resources
+C:\Users\User\source\repos\PK15\PK15\obj\Debug\PK15.csproj.GenerateResource.cache
+C:\Users\User\source\repos\PK15\PK15\obj\Debug\PK15.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\PK15\PK15\obj\Debug\PK15.exe
+C:\Users\User\source\repos\PK15\PK15\obj\Debug\PK15.pdb
+C:\Users\User\source\repos\PK15\PK15\obj\Debug\PK15.exe.config
+Z:\2025-2026\2 курс\22ИС\Сидорова\PK15\bin\Debug\PK15.exe.config
+Z:\2025-2026\2 курс\22ИС\Сидорова\PK15\bin\Debug\PK15.exe
+Z:\2025-2026\2 курс\22ИС\Сидорова\PK15\bin\Debug\PK15.pdb
+Z:\2025-2026\2 курс\22ИС\Сидорова\PK15\obj\Debug\PK15.csproj.AssemblyReference.cache
+Z:\2025-2026\2 курс\22ИС\Сидорова\PK15\obj\Debug\PK15.csproj.SuggestedBindingRedirects.cache
+Z:\2025-2026\2 курс\22ИС\Сидорова\PK15\obj\Debug\PK15.MainForm.resources
+Z:\2025-2026\2 курс\22ИС\Сидорова\PK15\obj\Debug\PK15.Properties.Resources.resources
+Z:\2025-2026\2 курс\22ИС\Сидорова\PK15\obj\Debug\PK15.csproj.GenerateResource.cache
+Z:\2025-2026\2 курс\22ИС\Сидорова\PK15\obj\Debug\PK15.csproj.CoreCompileInputs.cache
+Z:\2025-2026\2 курс\22ИС\Сидорова\PK15\obj\Debug\PK15.exe
+Z:\2025-2026\2 курс\22ИС\Сидорова\PK15\obj\Debug\PK15.pdb
+C:\Users\user\Downloads\Ненашев\PK15\bin\Debug\PK15.exe.config
+C:\Users\user\Downloads\Ненашев\PK15\bin\Debug\PK15.exe
+C:\Users\user\Downloads\Ненашев\PK15\bin\Debug\PK15.pdb
+C:\Users\user\Downloads\Ненашев\PK15\obj\Debug\PK15.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\Ненашев\PK15\obj\Debug\PK15.MainForm.resources
+C:\Users\user\Downloads\Ненашев\PK15\obj\Debug\PK15.Properties.Resources.resources
+C:\Users\user\Downloads\Ненашев\PK15\obj\Debug\PK15.csproj.GenerateResource.cache
+C:\Users\user\Downloads\Ненашев\PK15\obj\Debug\PK15.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\Ненашев\PK15\obj\Debug\PK15.exe
+C:\Users\user\Downloads\Ненашев\PK15\obj\Debug\PK15.pdb
